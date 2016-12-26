@@ -113,3 +113,5 @@
 ![seoulzoo_map-01](https://cloud.githubusercontent.com/assets/10662388/21479685/b0f4e6bc-cb99-11e6-856d-9cdf51786cb8.jpg)
 
 저장소에 이미지파일과 인쇄할 수 있는 PDF버전을 업로드 해놨다. 원본 사이즈는 37.4cm x 22.5cm로 A3용지에 인쇄 후 잘라내거나 A4용지에 축소 인쇄하면 된다.
+
+오류 수정 및 코멘트: leejeonghoon0(at)gmail.com
