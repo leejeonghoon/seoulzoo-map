@@ -99,18 +99,18 @@
 
 가능한 오픈소스 벡터를 활용했고 오픈소스 벡터가 맘에 들지 않거나 오픈소스가 없는 동물만 직접 따서 작업을 완료했다.
 
-![default](https://cloud.githubusercontent.com/assets/10662388/21479681/a8d9634a-cb99-11e6-93b8-8c1eb74cf078.jpg)
+![animal](https://cloud.githubusercontent.com/assets/10662388/23131551/bfd721e4-f7cd-11e6-945e-32020a521ef8.jpg)
 
 
 ## 5. 결과물 보기
 
 ### 5.1. 서울동물원 지도 리디자인
-![seoulzoo_map-02](https://cloud.githubusercontent.com/assets/10662388/21479686/b36a6688-cb99-11e6-8332-bf3f49ffb7a1.jpg)
+![seoulzoo_map-02](https://cloud.githubusercontent.com/assets/10662388/23130943/9821ad42-f7cb-11e6-90f3-662a8baf4972.jpg)
 
 ### 5.2. 서울 동물원 튜브맵
 한참 [Tube map 디자인](http://content.tfl.gov.uk/standard-tube-map.pdf)에 빠져있던 때라 추천 경로 4개만 강조시켜서 Tube map 스타일의 지도를 만들어봤다.
 
-![seoulzoo_map-01](https://cloud.githubusercontent.com/assets/10662388/21479685/b0f4e6bc-cb99-11e6-856d-9cdf51786cb8.jpg)
+![seoulzoo_map-01](https://cloud.githubusercontent.com/assets/10662388/23130942/9820f0aa-f7cb-11e6-8f5f-10f12c6a03f3.jpg)
 
 저장소에 이미지파일과 인쇄할 수 있는 PDF버전을 업로드 해놨다. 원본 사이즈는 37.4cm x 22.5cm로 A3용지에 인쇄 후 잘라내거나 A4용지에 축소 인쇄하면 된다.
 
